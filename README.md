@@ -64,7 +64,7 @@
 ## やったことはないが興味があるもの
   - API設計
     - やってる ( ユーザ認証🙅 )
-    - [hrfmmymt/dashboard](://github.com/hrfmmymt/dashboard)
+    - [hrfmmymt/dashboard](//github.com/hrfmmymt/dashboard)
   - サーバ構築 
 
 ## 職務経歴
