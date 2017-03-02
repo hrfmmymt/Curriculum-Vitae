@@ -1,5 +1,7 @@
 # 職務経歴書
 
+![hrfmmymt](media/hrfmmymt.jpg)
+
 ## 基本情報
 
 |key|value|
