@@ -80,6 +80,7 @@
 - デザイン
 - フロントエンド実装
 - A/B テスト実装・カバレッジ測定
+- サイトの PWA 化 ( Service Worker による静的リソースのキャッシュ・オフライン処理、Add to homescreen )
 
 ### 2012/07 - 2015/09: 株式会社グローアップソリューションズ
 
@@ -87,13 +88,43 @@
 
 #### Web 広告配信システムの管理画面開発
 
-- AngularJS 1 (便宜上) によるフロントエンドコーディング
-- UI設計
+- AngularJS 1 (便宜上) によるフロントエンドコーディング  
+  - UI設計・ルーティング・データ可視化・HTML 広告入稿機能追加など
+
 - コードレビュー
 
-#### その他 スマートフォン用ソーシャルゲーム、Web アプリケーションなど
+#### Web ブラウザ向けソーシャルゲーム開発
 
-- Refs : [hrfmmymt.github.io/skillsheet/](//hrfmmymt.github.io/skillsheet/)
+- AngularJS 1 (便宜上) ・jQuery ・ Velocity によるフロントエンドコーディング  
+  - UI設計・イベント実装
+
+- コードレビュー
+
+#### 勉強会・イベント情報検索サイト開発
+
+- HTML / CSS / jQuery によるマークアップ
+
+#### SPサイト、PCサイト開発
+
+- HTML / CSS / jQuery によるマークアップ
+
+#### 小売業者向け 顧客動向データ可視化Webアプリ開発
+
+- MySQL -> PHP による API 実装
+- D3.js での XMLHttpRequest 、並びに可視化  
+  - ソート機能などのユーザビリティ向上、アニメーションなどのインタラクション、デザイン ( Bootstrap.css ) も含む
+
+#### ファイナンシャルプランナー向け業務用Webアプリ
+
+- 補足 - 顧客のライフプランに合わせた保険商品を提案するアレのやつです
+- Yeoman (generator-backbone)  
+  - HTML5 (ejs)、CSS3 (Sass、Compass)、JavaScript (Backbone.js、CoffeeScript)
+  
+#### スマートフォン用ソーシャルゲーム
+
+- UIデザイン、カードデザイン、アイコン/ボタン等画像作成、ワークフロードキュメント化などなど
+
+#### Refs : [hrfmmymt.github.io/skillsheet/](//hrfmmymt.github.io/skillsheet/)
 
 ### それ以前 - 2012/07: 
 - 前略印刷会社など
