@@ -18,14 +18,15 @@
 
 #### プログラミング言語
   - HTML
-    - Web Standars、アクセシブルであるよう心がけています。
+    - Web 標準、アクセシブルであるよう心がけています。
   - CSS
-    - 業務経験のあるプリプロセッサは Sass ( Compass ) / LESS
-    - 趣味なら PostCSS
+    - 業務経験のあるプリプロセッサは Sass ( Compass ), LESS, PostCSS
   - JavaScript
-    - 業務ではまだまだ jQuery ですが、なるべく NativeJS で書くよう心がけています。
+    - Vanilla JS, jQuery, React, Vue.js, Node.js, AngularJS ( ver.1 ), etc.
   - PHP
-    - 簡単なテンプレート修正や API 修正などを業務でのみ
+    - 簡単なテンプレート修正や API 作成・修正などを業務で
+  - Ruby, Python
+    - 趣味で
 
 #### 自然言語
   - 日本語
@@ -34,7 +35,20 @@
     - 英語検定準2級<br>英語で書かれた文書をGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
 
 ### フレームワーク
-  ※業務で使ったものは出せないのです。。
+  - https://skyticket.jp/hotel/
+    - react-redux
+    - PWA
+    
+  - https://hrfmmymt.com
+    - preact-cli
+    - Firebase Hosting
+    - PWA
+  
+  - https://iiyatsu.hrfmmymt.com
+    - Cloud Functions for Firebase
+    - Firebase Hosting
+    - AMP
+    - PWA
 
   - AngularJS 1 (便宜上)
     - [AngularJSのng-optionsで自動生成するoptionタグに任意のvalueをセットする - Qiita](//qiita.com/hrfmmymt/items/e3ed8138a3218ad2b794)
@@ -65,17 +79,11 @@
 ## 強み
 - デザイン思考
 
-## やったことはないが興味があるもの
-  - API設計
-    - Ruby(Sinatra) やっていってる
-    - [hrfmmymt/dashboard](//github.com/hrfmmymt/dashboard)
-  - サーバ構築 
-
 ## 職務経歴
 
 ### 2015/10 - : 株式会社アドベンチャー
 
-職務: デザイナー
+職務: デザイナー / フロントエンドエンジニア
 
 #### [skyticket](https://skyticket.jp/) 関連サービスの開発・運用
 
@@ -126,7 +134,9 @@
 
 - UIデザイン、カードデザイン、アイコン/ボタン等画像作成、ワークフロードキュメント化などなど
 
-#### Refs : [hrfmmymt.github.io/skillsheet/](//hrfmmymt.github.io/skillsheet/)
+#### Refs
+- [hrfmmymt.com](//hrfmmymt.com)
+- [iiyatsu.hrfmmymt.com](//iiyatsu.hrfmmymt.com)
 
 ### それ以前 - 2012/07: 
 - 前略印刷会社など
