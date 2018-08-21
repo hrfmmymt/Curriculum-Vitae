@@ -34,11 +34,7 @@
   - 英語
     - 英語検定準2級<br>英語で書かれた文書をGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
 
-### フレームワーク
-  - https://skyticket.jp/hotel/
-    - react-redux
-    - PWA
-    
+### 使用フレームワーク、ライブラリ、ツールなど
   - https://hrfmmymt.com
     - preact-cli
     - Firebase Hosting
@@ -49,6 +45,13 @@
     - Firebase Hosting
     - AMP
     - PWA
+
+  - https://skyticket.jp/hotel/
+    - react-redux
+    - PWA
+  
+  - https://skyticket.jp/
+    - jQuery
 
   - AngularJS 1 (便宜上)
     - [AngularJSのng-optionsで自動生成するoptionタグに任意のvalueをセットする - Qiita](//qiita.com/hrfmmymt/items/e3ed8138a3218ad2b794)
