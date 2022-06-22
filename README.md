@@ -46,9 +46,7 @@
     - FreeMarker
 
   - https://hrfmmymt.com
-    - preact-cli
-    - Firebase Hosting
-    - PWA
+    - Next.js
   
   - https://iiyatsu.hrfmmymt.com
     - Node.js (Fastify)
