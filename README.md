@@ -7,9 +7,9 @@
 |key|value|
 |---|-----|
 |Name|宮本 浩史 (Hirofumi Miyamoto)|
-|Blog|[Archive](//hrfmmymt.tumblr.com/)|
+|Portfolio|[# hirofumi miyamoto](//hrfmmymt.com)|
+|Blog|[iiyatsu - hrfmmymt's weblog](//iiyatsu.hrfmmymt.com)|
 |Twitter|[@hrfmmymt](//twitter.com/hrfmmymt)|
-|Qiita|[hrfmmymt](//qiita.com/hrfmmymt)|
 |other|[hrfmmymt.github.io](//hrfmmymt.github.io/)|
 
 ## スキル
@@ -22,7 +22,7 @@
   - CSS
     - 業務経験のあるプリプロセッサは Sass ( Compass ), LESS, PostCSS
   - JavaScript
-    - Vanilla JS, jQuery, React, Vue.js, Node.js, AngularJS ( ver.1 ), etc.
+    - Vanilla JS, jQuery, React, Vue.js, Node.js, AngularJS, etc.
   - PHP
     - 簡単なテンプレート修正や API 作成・修正などを業務で
   - Ruby, Python
@@ -35,15 +35,23 @@
     - 英語検定準2級<br>英語で書かれた文書をGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる
 
 ### 使用フレームワーク、ライブラリ、ツールなど
+  - https://abema.tv/
+    - React
+    - RxJS
+
+  - https://ameblo.jp/shibuya (など)
+    - react-redux
+    - jQuery
+    - AMP
+    - FreeMarker
+
   - https://hrfmmymt.com
     - preact-cli
     - Firebase Hosting
     - PWA
   
   - https://iiyatsu.hrfmmymt.com
-    - Cloud Functions for Firebase
-    - Firebase Hosting
-    - AMP
+    - Node.js (Fastify)
     - PWA
 
   - https://skyticket.jp/hotel/
@@ -53,7 +61,7 @@
   - https://skyticket.jp/
     - jQuery
 
-  - AngularJS 1 (便宜上)
+  - AngularJS
     - [AngularJSのng-optionsで自動生成するoptionタグに任意のvalueをセットする - Qiita](//qiita.com/hrfmmymt/items/e3ed8138a3218ad2b794)
     - [Re: AngularJSで連動するSELECTタグを作る - Qiita](//qiita.com/hrfmmymt/items/af79e5e3ffacac3765e5)
   - React
@@ -84,7 +92,21 @@
 
 ## 職務経歴
 
-### 2015/10 - : 株式会社アドベンチャー
+### 2018/10 -: 株式会社サイバーエージェント
+
+職務: フロントエンドエンジニア
+
+#### ABEMAの開発・運用
+
+- フロントエンド実装
+- コードレビュー
+
+#### アメーバブログ（アメブロ）関連サービスの開発・運用
+
+- フロントエンド実装
+- コードレビュー
+
+### 2015/10 - 2018/10: 株式会社アドベンチャー
 
 職務: デザイナー / フロントエンドエンジニア
 
@@ -94,6 +116,7 @@
 - フロントエンド実装
 - A/B テスト実装・カバレッジ測定
 - サイトの PWA 化 ( Service Worker による静的リソースのキャッシュ・オフライン処理、Add to homescreen )
+- コードレビュー
 
 ### 2012/07 - 2015/09: 株式会社グローアップソリューションズ
 
@@ -101,14 +124,14 @@
 
 #### Web 広告配信システムの管理画面開発
 
-- AngularJS 1 (便宜上) によるフロントエンドコーディング  
+- AngularJS によるフロントエンドコーディング  
   - UI設計・ルーティング・データ可視化・HTML 広告入稿機能追加など
 
 - コードレビュー
 
 #### Web ブラウザ向けソーシャルゲーム開発
 
-- AngularJS 1 (便宜上) ・jQuery ・ Velocity によるフロントエンドコーディング  
+- AngularJS ・jQuery ・ Velocity によるフロントエンドコーディング  
   - UI設計・イベント実装
 
 - コードレビュー
@@ -136,10 +159,6 @@
 #### スマートフォン用ソーシャルゲーム
 
 - UIデザイン、カードデザイン、アイコン/ボタン等画像作成、ワークフロードキュメント化などなど
-
-#### Refs
-- [hrfmmymt.com](//hrfmmymt.com)
-- [iiyatsu.hrfmmymt.com](//iiyatsu.hrfmmymt.com)
 
 ### それ以前 - 2012/07: 
 - 前略印刷会社など
